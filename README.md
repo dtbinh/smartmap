@@ -28,3 +28,5 @@ Authors : [Julien Perrenoud](https://github.com/jfperren), [Alain Milliet](https
 Date of Creation : Fall 2014
 
 License : WIP
+
+More informations to be found on the [Wiki](https://github.com/jfperren/smartmap/wiki)
