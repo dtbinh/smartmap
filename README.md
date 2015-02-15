@@ -29,4 +29,6 @@ Date of Creation : Fall 2014
 
 License : WIP
 
-More informations to be found on the [Wiki](https://github.com/jfperren/smartmap/wiki)
+More information to be found on the [Wiki](https://github.com/jfperren/smartmap/wiki)
+
+Special thanks to Lukas Kellenberger & Calin Iorgolescu.
